@@ -35,3 +35,7 @@ The vacuum cleaner agent will automatically perform the required actions and sto
 
 ## Purpose
 This project was developed as an Artificial Intelligence practical to demonstrate the behavior of an intelligent agent and the PEAS task-environment model using Prolog.
+
+## Output
+The execution of vacuum_cleaner.pl in SWI-Prolog:
+![Output Screenshot](Output.png)
